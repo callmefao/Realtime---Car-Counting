@@ -6,6 +6,11 @@ This web application provides real-time vehicle counting on a road, displayed in
 ### Live Stream Demo
 Source: https://www.youtube.com/watch?v=FsL_KQz4gpw
 ![Live Stream Demo](demo/Youtube_livestream_video.gif)
+
+### Recorded Video Demo
+Source: https://www.youtube.com/watch?v=wqctLW0Hb_0
+![Recorded Demo](demo/Youtube_video.gif)
+
 ## Features
 
 - **Frame 1 - Map**: Displays a map of the road with a line representing the traffic. The line color changes every 2 seconds based on the number of vehicles detected, with the traffic density predicted by the `traffic_model`.
